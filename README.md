@@ -2,8 +2,6 @@
 
 ___
 
-### Github Stats
-
 ![Lorenzo's github Stats](https://github-readme-stats.vercel.app/api?username=lorenzomagni&theme=material-palenight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzomagni&theme=dark)
